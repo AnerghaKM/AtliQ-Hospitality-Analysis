@@ -11,5 +11,5 @@ decision-making in management, Atliq Grands are losing its market share and reve
 luxury/business hotels category. As a strategic move, the managing director of Atliq Grands
 wanted to incorporate “Business and Data Intelligence” in order to regain their market share
 and revenue.
-# Insights 🎯
+
 
